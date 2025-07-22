@@ -14,3 +14,4 @@ PLC、Modbus、封包分析、重播攻擊、入侵偵測系統、Snort
 - Attacker.zip : 攻擊者重播攻擊腳本
 - FinalProject_HMI.zip : PLC HMI 相關檔案
 - packet_example.pcapng : 專案封包錄製範例檔
+- project.rules : snort rules 
